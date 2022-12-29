@@ -1,0 +1,10 @@
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+import matplotlib.cm as cm
+
+import scipy.stats as st
+# импорт библиотеки warnings
+import warnings
+warnings.simplefilter(action='ignore', category=FutureWarning)
